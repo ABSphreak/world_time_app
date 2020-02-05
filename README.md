@@ -1,6 +1,6 @@
 # ⌚World-time App
 
-A new Flutter project.
+A starter Flutter project to test Flutter inner-workings and testing API calls with JSON data
 
 ## Getting Started
 
